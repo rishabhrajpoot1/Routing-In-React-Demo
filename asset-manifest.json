@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Timer-App/static/css/main.1b50b34b.css",
+    "main.js": "/Timer-App/static/js/main.8729d67f.js",
+    "index.html": "/Timer-App/index.html",
+    "main.1b50b34b.css.map": "/Timer-App/static/css/main.1b50b34b.css.map",
+    "main.8729d67f.js.map": "/Timer-App/static/js/main.8729d67f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b50b34b.css",
+    "static/js/main.8729d67f.js"
+  ]
+}
